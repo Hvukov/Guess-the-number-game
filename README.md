@@ -1,2 +1,11 @@
-# Guess-the-number-game
-A simple game where user try to guess a random number between 1-20
+# Guess the number game
+
+\*A simple game where user try to guess a random number between 1-20. I made this project during Jonas Schmedtmann Javascript course but I have added additional functionality to the game.
+
+I created this game using Javascript, CSS and HTML. The game is inspired by Jonas Schmedtmann course but I have added extra feature and refactored the code.
+I hope u enjoy the game :-)
+
+
+
+https://user-images.githubusercontent.com/79806596/132304559-ea53f6a9-5473-4f35-a668-4e131aaaeca4.mp4
+
