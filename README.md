@@ -2,7 +2,6 @@
 
 \*A simple game where user try to guess a random number between 1-20. I made this project during Jonas Schmedtmann Javascript course but I have added additional functionality to the game.
 
-I created this game using Javascript, CSS and HTML. The game is inspired by Jonas Schmedtmann course but I have added extra feature and refactored the code.
 I hope u enjoy the game :-)
 
 
