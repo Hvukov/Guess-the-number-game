@@ -1,5 +1,8 @@
 # Guess the number game
 
+Please check the game @
+https://dreamy-banach-9bab62.netlify.app
+
 \*A simple game where user try to guess a random number between 1-20. I made this project during Jonas Schmedtmann Javascript course but I have added additional functionality to the game.
 
 I hope u enjoy the game :-)
